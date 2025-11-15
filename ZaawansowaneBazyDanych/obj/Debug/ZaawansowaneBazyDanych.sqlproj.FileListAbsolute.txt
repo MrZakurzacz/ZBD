@@ -1,0 +1,10 @@
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\bin\Debug\ZaawansowaneBazyDanych.dacpac
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.sqlproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\Model.xml
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\refactor.xml
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\postdeploy.sql
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\predeploy.sql
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.dll
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.pdb
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\bin\Debug\ZaawansowaneBazyDanych.dll
+C:\Users\Kuba\source\repos\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\bin\Debug\ZaawansowaneBazyDanych.pdb
